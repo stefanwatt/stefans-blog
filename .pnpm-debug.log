@@ -1,0 +1,22 @@
+{
+  "0 debug pnpm:scope": {
+    "selected": 1
+  },
+  "1 error pnpm": {
+    "code": "ELIFECYCLE",
+    "errno": "ENOENT",
+    "syscall": "spawn",
+    "file": "sh",
+    "pkgid": "urara@0.0.1",
+    "stage": "dev",
+    "script": "npm-run-all -p -r dev:urara \"dev:kit -- {@} \" --",
+    "pkgname": "urara",
+    "err": {
+      "name": "pnpm",
+      "message": "urara@0.0.1 dev: `npm-run-all -p -r dev:urara \"dev:kit -- {@} \" --`\nspawn ENOENT",
+      "code": "ELIFECYCLE",
+      "stack": "pnpm: urara@0.0.1 dev: `npm-run-all -p -r dev:urara \"dev:kit -- {@} \" --`\nspawn ENOENT\n    at ChildProcess.<anonymous> (/usr/lib/node_modules/pnpm/dist/pnpm.cjs:91914:22)\n    at ChildProcess.emit (node:events:390:28)\n    at maybeClose (node:internal/child_process:1062:16)\n    at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5)"
+    }
+  },
+  "2 warn pnpm:global": " Local package.json exists, but node_modules missing, did you mean to install?"
+}

@@ -1,0 +1,10 @@
+.DS_Store
+node_modules
+/.svelte-kit
+/package
+src/routes/**/
+static/
+build/
+.vercel_build_output/
+.env.local
+.env.**.local
