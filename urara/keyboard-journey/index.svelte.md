@@ -5,10 +5,10 @@
   tags:
     - 'keyboard'
     - 'diy'
-  cover: 'keyboard-journey/reviung39.webp'
+  cover: 'https://comentic.sirv.com/Images/reviung39-min.jpg'
 ---
 
-# How I went from...
+## How I went from...
 
 - ... a regular full - size 104 key to a 39 key.
 - ... QWERTZ to QWERTY to Workman
@@ -22,7 +22,7 @@ I would like to share my experiences, pitfalls and realizations about the world 
 
 ## First Custom Keyboard
 
-[![GMMK Fullsize](/assets/gmmk.png 'GMMK Fullsize')](https://cdn.shopify.com/s/files/1/0549/2681/products/glorious_gaming_gmmk_full_size_keyboard_black_04_1000x.png?v=1601656235)
+[![GMMK Fullsize](https://comentic.sirv.com/Images/gmmk.png 'GMMK Fullsize')](https://cdn.shopify.com/s/files/1/0549/2681/products/glorious_gaming_gmmk_full_size_keyboard_black_04_1000x.png?v=1601656235)
 
 This bad boy was my first step into the rabbit role. Pretty large compared to the cover image of this post, huh? Well... let's explore the journey from back then to now.
 

@@ -6,7 +6,7 @@
   {#if site.author.avatar}
     <div class="flex-0 avatar w-32 h-32 ml-auto my-auto justify-end">
       <div class="rounded-full urara-card-shadow w-32 h-32">
-        <img src={site.author.avatar} alt={site.author.name} />
+        <img data-src={site.author.avatar} class="Sirv" alt={site.author.name} />
       </div>
       {#if site.author.status}
         <div class="absolute rounded-full w-10 h-10 bottom-0 right-0 bg-base-100 shadow-xl text-xl text-center py-1.5">
