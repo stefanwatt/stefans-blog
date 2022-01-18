@@ -22,7 +22,7 @@ export const site: Sites = {
     name: 'Stefan Watt',
     avatar: 'https://comentic.sirv.com/Images/muetze.jpg',
     status: '🟢',
-    bio: 'Svelte Enthusiast | DIY Ergo-Keyboard Manufacturer'
+    bio: 'Svelte Enthusiast | DIY Ergo-Keyboard Manufacturer | Amateur Guitarist'
   },
   url: import.meta.env.URARA_SITE_URL ?? 'https://example.com',
   themeColor: '#3D4451'
