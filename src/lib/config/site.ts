@@ -14,15 +14,15 @@ interface Sites {
 }
 
 export const site: Sites = {
-  title: 'Urara',
-  subtitle: 'Sweet & Powerful SvelteKit Blog Template',
+  title: "Stefan's Blog",
+  subtitle: "Anything Web-Dev",
   lang: 'en-US',
   descr: 'Powered by SvelteKit/Urara',
   author: {
-    name: 'John Doe',
-    avatar: '/assets/maskable@512.png',
-    status: '🌸',
-    bio: 'lorem ipsum dolor sit amet, consectetur adipiscing elit.'
+    name: 'Stefan Watt',
+    avatar: 'https://comentic.sirv.com/Images/muetze.jpg',
+    status: '🟢',
+    bio: 'Svelte Enthusiast | DIY Ergo-Keyboard Manufacturer'
   },
   url: import.meta.env.URARA_SITE_URL ?? 'https://example.com',
   themeColor: '#3D4451'

@@ -6,5 +6,6 @@
   export let alt: string
   src = validate(src)
 </script>
-
-<img {src} {alt} class={className ?? 'rounded-lg my-2'} loading="lazy" decoding="async" />
+<div class="p-4">
+  <img {src} {alt} class={className ?? 'rounded-lg my-2'} loading="lazy" decoding="async" />
+</div>
