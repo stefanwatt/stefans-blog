@@ -1,10 +1,12 @@
 ---
-  title: 'Switching from Pop!OS to AwesomeWM'
-  date: 2022-01-24
-  lastmod: 2022-01-24
+  title: 'Web-Development on an Android Tablet'
+  date: 2022-01-26
+  lastmod: 2022-01-26
   tags:
-    - 'keyboard'
-    - 'diy'
+    - 'android'
+    - 'neovim'
+    - 'termux'
+    - 'web-development'
   cover: 'https://comentic.sirv.com/Images/awm_vs_pop.png'
 ---
 ## Introduction
