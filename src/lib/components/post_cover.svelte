@@ -7,6 +7,6 @@
   Array.isArray(cover) ? ([src, alt] = [cover[1], cover[0]]) : ([src, alt] = [cover, cover])
 </script>
 
-<figure class={figureClass}>
+<figure align="center" class={figureClass}>
   <Image class={imgClass} {src} {alt} />
 </figure>
