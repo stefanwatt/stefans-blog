@@ -1,12 +1,11 @@
 ---
-  title: 'Web-Development on an Android Tablet'
-  date: 2022-01-26
-  lastmod: 2022-01-26
+  title: 'AwemsomeWM vs Pop!OS'
+  date: 2022-01-24
+  lastmod: 2022-01-24
   tags:
-    - 'android'
-    - 'neovim'
-    - 'termux'
-    - 'web-development'
+    - 'AwesomeWM'
+    - 'Pop!OS'
+    - 'Linux'
   cover: 'https://comentic.sirv.com/Images/awm_vs_pop.png'
 ---
 ## Introduction
