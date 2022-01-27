@@ -1,24 +1,48 @@
 ---
-  title: 'AwemsomeWM vs Pop!OS'
-  date: 2022-01-24
-  lastmod: 2022-01-24
+  title: 'My keyboard journey'
+  date: 2022-01-18
+  lastmod: 2022-01-18
   tags:
-    - 'AwesomeWM'
-    - 'Pop!OS'
-    - 'Linux'
-  cover: 'https://comentic.sirv.com/Images/awm_vs_pop.png'
+    - 'keyboard'
+    - 'diy'
+  cover: 'https://comentic.sirv.com/Images/reviung39-min.jpg'
 ---
+
+## How I went from...
+
+- ... a regular full - size 104 key to a 39 key.
+- ... QWERTZ to QWERTY to Workman
+- ... standard keymap to custom QMK
+- ... wired QMK to wireless ZMK
+- ... normie to power user
+
 ## Introduction
-As a developer I'm always looking for new tools to streamline my workflow. The Awesome Window Manager is my latest experiment. In this post I will explore my  experience with setting it up and doing work with it. I will also compare it to my previous environment.
 
-## Coming from Pop!Os
-### A Fully fletched DE
-A while ago I made the switch from Windows to Linux on all my machines. After some initial distro hopping I stuck with [Pop!OS](https://pop.system76.com/) (or at least the [Pop!Shell](https://github.com/pop-os/shell)). 
+I would like to share my experiences, pitfalls and realizations about the world of custom - and in particular ergonomic - keyboards.At times it was definitely not easy to find the information I needed.So maybe this can be helpful for somebody out there.
 
-The window management is what really set it apart from anything else I had tried. I quickly fell in love with the **tiling** and **window stacking** functionality. Combining that with the vertical desktops of *Gnome 36* really increased my productivity at work. Using a tiling layout was a real revelation to me. To me it was one of those things that I never gave much thought, but once I had tried and gotten used to it, I could never again live without. 
- 
-At some point I realized that I wasn't confined to using Ubuntu underneath my beloved *Pop!Shell*. So up until recently I've been using *Arch + Pop!Shell*.
+## First Custom Keyboard
 
-## Going WM only
-### Initial encounter (with QTile)
-ToDo
+[![GMMK Fullsize](https://comentic.sirv.com/Images/gmmk.png 'GMMK Fullsize')](https://cdn.shopify.com/s/files/1/0549/2681/products/glorious_gaming_gmmk_full_size_keyboard_black_04_1000x.png?v=1601656235)
+
+This bad boy was my first step into the rabbit role. Pretty large compared to the cover image of this post, huh? Well... let's explore the journey from back then to now.
+
+60% and 65% custom  keyboards are the most readily available ones. At first picking all the individual parts was kind of overwhelming and I couldn't imagine getting rid of my numpad or my arrow keys at the time. So this seemed like good compromise. Somewhere inbetween completely custom and completely prebuilt. It was also hot-swappable, which was great since I had no clue what kinds of switches I liked.
+
+The only other mechanical keyboard I had ever owned before this - like many young lost souls - was a _ Razer Blackwidow _ and I just accepted the clicky switches that were inside of it. To be honest I haven't really gone deep on boutique switches and all the mystique around that surrounds them but I did at least some exploration.
+
+## Picking Switches
+
+I first ordered the _ GMMK _ with _ Gateron Clears _ which proved to be too light of a spring for me.
+Since I couldn't get my hand on any high quality lube, I tried spray lubing them. That turned out to be a huge mistake because half the switches ended up no longer functional. Maybe I just didn't do it right.
+
+Being left unsatisfied with _ Gateron Clears _ I ordered a selection of different types of switches - mostly linears and tactiles, mostly Gaterons due to the pricepoint.I don't wanna dive too deep but the end result was me sticking with _Gateron Reds_ to this day. I would day for any newcomer to this world it's a good starting point to get a hotswap board and a selection of switches(only need to buy about 30 of a kind to fill up alphas + space etc.) and try em out.That's really the only way to find your preference if you're completely unsure.
+
+##  Finding Keycaps
+
+As a creature of habit I also wasn't ready to switch to QWERTY (ANSI-US) from QWERTZ (ISO-DE). But I also didn't like then standard keycaps that came with the *GMMK*. This made finding keycaps even harder than it already is. I settled on a cheap set of PBT keycaps from *AliExpress* in QWERTY. I was actually very satisfied with the quality and I still use them today. 
+
+## Split it up
+
+I continued to use the *GMMK* for bout a year and was honestly pretty satisfied. I stopped looking for parts and watching keyboard build videos. My interest for the hobby was pretty much gone. Until... 
+
+... I disovered the "ergo-world". I started learning about ergonomics and my passion was sparked again. This time I went even deeper down the rabbit hole. Whenever I thought I had discovered "endgame" I discovered something new.
